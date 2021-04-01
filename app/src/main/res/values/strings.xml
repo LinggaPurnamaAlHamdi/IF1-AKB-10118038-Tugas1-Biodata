@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BiodataLingga</string>
+    <string name="nama"> Nama </string>
+    <string name="namavalue"> Lingga Purnama Al Hamdi </string>
+    <string name="NIM"> NIM </string>
+    <string name="NIMvalue"> 10118038 </string>
+    <string name="kelas"> Kelas </string>
+    <string name="Kelasvalue"> IF-1 </string>
+    <string name="jk"> Jenis Kelamin : </string>
+    <string name="jkvalue"> Laki - Laki</string>
+    <string name="ttl"> Tempat, Tanggal Lahir :  </string>
+    <string name="ttlvalue"> Bandung, 08 Agustus 2000</string>
+    <string name="alamat"> Alamat Rumah : </string>
+    <string name="alamatvalue"> Jl. Rorojonggrang Utara I B9 No.6 </string>
+    <string name="goldar"> Golongan Darah : </string>
+    <string name="goldarvalue"> O </string>
+    <string name="makanan"> Makanan Kesukaan : </string>
+    <string name="makananvalue"> Ayam Goreng </string>
+    <string name="minuman"> Minuman Kesukaan : </string>
+    <string name="minumanvalue"> Es Jeruk </string>
+    <string name="hobi"> Hobi : </string>
+    <string name="hobivalue"> Mendengarkan Musik, Bermain Game </string>
+    <string name="lagu"> Lagu Favorit : </string>
+    <string name="laguvalue"> Silhouette by KANA-BOON </string>
+    <string name="film"> Film Favorit : </string>
+    <string name="filmvalue"> Kamen Rider Drive </string>
+    <string name="pekerjaan"> Pekerjaan yang diinginkan setelah kuliah : </string>
+    <string name="pekerjaanvalue"> Wiraswasta </string>
+
+</resources>
